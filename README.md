@@ -1,43 +1,15 @@
-# This repo is being worked on currently
-I'll keep my personal notes and to-do list here in the meantime.  
-If you're viewing this, feel free to contribute to the repo, fork it or star it :)
+## About this repository
+This is a collaborative open repository that anyone is encouraged to contribute to.  
+To contribute, simply fork the repository and make changes to any file you want (or add new ones), then send a pull request !  
 
-# Topics to cover
-## Mathematics
-Format: LaTeX? Word? pdf?  
-Concepts relevant to ML/AI/DS  
-Optimization algorithms  
-## Statistics 
-Format: LaTeX? Word? pdf?  
-Estimation, probability distributions, errors and residuals, etc.  
-ANOVA, etc. etc.
-## Data visualization
-Format: Jupyter Notebook  
-Code snippets  
-All kinds of graphs and their best uses
-## Data preprocessing
-Format: Jupyter Notebook  
-Code snippets  
-Best practices, when to use what technique  
-## Machine learning
-Format: Jupyter Notebook?  
-Code snippets for typical ML tasks  
-Fitting models, predicting, etc.  
-Computer vision and NLP 
-## Deep learning / AI 
-Format: ??    
-Concepts explained in depth   
-## Branding/UI/UX 101 
-Format: .pdf  
-Basics of logo and app design  
-What is visually appealing ?  
-Best practices
-## Git version control
-How to use Git Bash  
-Github tips and tricks  
-Best practices
-## Interview prep
-Format: .pdf  
-How to prep for technical interviews  
-HackerRank etc.  
-Soft skills  
+## Topics to cover
+- [ ] Advanced mathematics, advanced and basic statistics  
+- [ ] Data visualization and processing  
+- [ ] Machine learning, deep learning and artificial intelligence  
+- [ ] Branding/UI/UX, app design basics, logo and website design basics  
+- [ ] Git Bash basics, GitHub best practices  
+- [ ] Interview prepping and how to get a job
+- [ ] ... and maybe more 
+
+## Change log
+As of **July 8th, 2021**, I am working on [Getting a job.md](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md) (resume, portfolio, networking, interviewing, hackathon list).
