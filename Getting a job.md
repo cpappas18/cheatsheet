@@ -19,6 +19,7 @@
 
 **Resources:**  
 * [Streamlit](https://streamlit.io/) lets you turn data science and machine learning scripts into beautiful web apps with no front-end experience needed.
+* [Typeform](https://www.typeform.com/) lets you create beautiful interactive forms.
 
 ## Networking 101
 
