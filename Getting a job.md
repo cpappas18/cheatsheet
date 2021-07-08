@@ -9,14 +9,12 @@
 
 
 ## About your resume
-- [ ] add a basic guide + tips and tricks here  
 
 **Resources:**  
-* The [GHC Resume Database](https://ghc.anitab.org/attend/resume-database) gives to 400+ companies access to your resume and provides a free in-depth resume review service !
+* The [GHC Resume Database](https://ghc.anitab.org/attend/resume-database) lets 400+ companies access your resume for job and internship opportunities and provides a free in-depth resume review service !
 * [Techintern.io](https://www.techintern.io/student) is an internship resume database that lets you select every month which companies you are interested in interning at.
 
 ## About your portfolio
-- [ ] add a basic guide + tips and tricks here  
 
 **Resources:**  
 * [Streamlit](https://streamlit.io/) lets you turn data science and machine learning scripts into beautiful web apps with no front-end experience needed.
@@ -24,29 +22,27 @@
 
 ## Networking 101
 
-- [ ] add a basic guide + tips and tricks here  
-- [ ] add resources
+An excellent way of meeting peers, mentors and industry professionals is to partake in a [program](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#learning-opportunities). 
+
+**Resources:**
+* [Technolgap](https://tinyurl.com/join-technolgap) is a very active pan-Canadian Slack community for women-in-tech (students and professionals) that shares daily job offers, opportunities, resume reviews, etc. **Exclusive Technolgap-only event coming up in August 2021 ! Join for more information !**
 
 ## The behavioural interview
 
-- [ ] add a basic guide + tips and tricks here  
-- [ ] add resources
-
 ## The technical interview
-
-- [ ] add a basic guide + tips and tricks here 
 
 **Resources:**  
 * [confetti.ai](https://www.confetti.ai/) is an incredible Machine Learning technical interview question bank that lets you test on specific ML concepts. 
 * [HackerRank Interview Prep Kit](https://www.hackerrank.com/interview/interview-preparation-kit) is a list of HackerRank challenges curated by them from 1000+ companies.  
 
 ## Learning opportunities
-Please check out the websites for the most recent information on location, dates, eligibility and end-of-program opportunities.  
+Please check out the websites for the most recent information on location, dates, eligibility, costs (many are almost free), commitment level and end-of-program opportunities. Opportunities are sorted chronologically (Jan-Dec).
 
-* [AI4Good Lab](https://www.ai4goodlab.com/) is a 7-week women-only introduction to machine learning and artificial intelligence program concluding in a 3-week team project that lets you make valuable connections and is an excellent springboard into the world of ML/AI. **Runs May-June 2021**
-* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Jun-Aug 2021, Sep-Nov 2021, and Jan-Mar 2022**
+* [AI4Good Lab](https://www.ai4goodlab.com/) is a 7-week women-only introduction to machine learning and artificial intelligence program concluding in a 3-week team project that lets you make valuable connections and is an excellent springboard into the world of ML/AI. **Applications open January, runs May-June**
+* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Jun-Aug, Sep-Nov 2021, and Jan-May 2022**
+* [URx Talent Development Program](https://onereq.com/urx/talent-development-program/) is a series of workshops designed to help you start your career in tech. **Runs Jun-Aug 2021**
 * [DS4A/Women](https://www.correlation-one.com/data-science-for-all-women) is a virtual 7-week Data Science program for women that teaches you real-world data analysis skills  concluding with a team project, and lets you network and be matched with a mentor. **Runs Sep-Oct 2021**
 
 ## Hackathons
 
-- [ ] add any and all hackathons i can find, with dates and specifications
+* [TechNova](https://www.itstechnova.org/) is UWaterloo's first global women-in-tech hackathon, featuring a 3-day workshop period followed by the 36-hour hackathon and concluding with a 5-day networking period. **Applications close July 12th, runs Aug 24-29th 2021**
