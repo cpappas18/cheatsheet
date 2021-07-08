@@ -1,4 +1,10 @@
-This document is being worked on, feel free to add to it if you want !  
+## Table of contents
+1. [About your resume](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#about-your-resume)
+2. [About your portfolio](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#about-your-portfolio)
+3. [Networking 101](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#networking-101)
+4. [The behavioural interview](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#the-behavioural-interview)
+5. [The technical interview](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#the-technical-interview)
+
 
 ## About your resume
 - [ ] add a basic guide + tips and tricks here  
@@ -18,12 +24,12 @@ This document is being worked on, feel free to add to it if you want !
 - [ ] add a basic guide + tips and tricks here  
 - [ ] add resources
 
-## Interviewing (part 1 : behavioural)
+## The behavioural interview
 
 - [ ] add a basic guide + tips and tricks here  
 - [ ] add resources
 
-## Interviewing (part 2 : technical)
+## The technical interview
 
 - [ ] add a basic guide + tips and tricks here 
 
