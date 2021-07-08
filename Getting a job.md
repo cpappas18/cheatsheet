@@ -4,6 +4,7 @@
 3. [Networking 101](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#networking-101)
 4. [The behavioural interview](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#the-behavioural-interview)
 5. [The technical interview](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#the-technical-interview)
+6. [Hackathons](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#hackathons)
 
 
 ## About your resume
@@ -36,3 +37,7 @@
 **Resources:**  
 * [confetti.ai](https://www.confetti.ai/) is an incredible Machine Learning technical interview question bank that lets you test on specific ML concepts. 
 * [HackerRank Interview Prep Kit](https://www.hackerrank.com/interview/interview-preparation-kit) is a list of HackerRank challenges curated by them from 1000+ companies.  
+
+## Hackathons
+
+- [ ] add any and all hackathons i can find, with dates and specifications
