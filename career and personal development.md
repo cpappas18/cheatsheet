@@ -1,11 +1,11 @@
 ## Table of contents
 1. [How do I present my resume?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-resume)
-2. [How do I showcase my projects?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md##about-your-portfolio)
-3. [How do I network and get an interview?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md##networking-101)
-4. [How do I ace the behavioural interview?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md##the-behavioural-interview)
-5. [How do I ace the technical interview](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md##the-technical-interview)
-6. [Learning opportunities](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md##learning-opportunities)
-7. [Hackathons](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md##hackathons)
+2. [How do I showcase my projects?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-portfolio)
+3. [How do I network and get an interview?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#networking-101)
+4. [How do I ace the behavioural interview?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-behavioural-interview)
+5. [How do I ace the technical interview](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-technical-interview)
+6. [Learning opportunities](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities)
+7. [Hackathons](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#hackathons)
 
 ## About your resume
 
