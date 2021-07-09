@@ -1,6 +1,11 @@
 ## About this repository
 This is a collaborative open repository that anyone is encouraged to contribute to.  
-To contribute, simply fork the repository and make changes to any file you want (or add new ones), then send a pull request !  
+Each document contains a refresher (quick explanation, formula, code snippet, etc.) 
+and links at the end of the document to a more in-depth explanation.  
+
+## How to contribute
+Simply fork this repository, add anything you want, then send a pull request !  
+You can also just drop links to articles or videos and I'll take care of the formatting :)  
 
 ## Topics to cover
 - [ ] Advanced mathematics, advanced and basic statistics  
@@ -11,5 +16,5 @@ To contribute, simply fork the repository and make changes to any file you want 
 - [ ] Interview prepping and how to get a job
 - [ ] ... and maybe more 
 
-## Change log
-As of **July 9th, 2021**, I am working on [career and personal development.md](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md) (resume, portfolio, networking, interviewing, hackathon list).
+## What I'm doing right now
+As of **July 9th, 2021**, I am mainly working on [career and personal development.md](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md) (resume, portfolio, networking, interviewing, hackathon list).
