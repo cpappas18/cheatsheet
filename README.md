@@ -12,4 +12,4 @@ To contribute, simply fork the repository and make changes to any file you want 
 - [ ] ... and maybe more 
 
 ## Change log
-As of **July 8th, 2021**, I am working on [Getting a job.md](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md) (resume, portfolio, networking, interviewing, hackathon list).
+As of **July 9th, 2021**, I am working on [career and personal development.md](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md) (resume, portfolio, networking, interviewing, hackathon list).
