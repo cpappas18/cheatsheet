@@ -1,19 +1,73 @@
-## Table of contents
-1. [How do I present my resume?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-resume)
-2. [How do I showcase my projects?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-portfolio)
-3. [How do I network and get an interview?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#networking-101)
-4. [How do I ace the behavioural interview?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-behavioural-interview)
-5. [How do I ace the technical interview](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-technical-interview)
-6. [Learning opportunities](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities)
-7. [Hackathons](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#hackathons)
+# Table of contents
+1. [About your resume](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-resume)  
+   a. [Best practices](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#best-practices)  
+   b. [Going the extra mile](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#going-the-extra-mile)  
+3. [About your portfolio](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-portfolio)
+4. [Networking 101](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#networking-101)
+5. [The behavioural interview?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-behavioural-interview)
+6. [The technical interview](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-technical-interview)
+7. [Learning opportunities](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities)
+8. [Hackathons](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#hackathons)
 
-## About your resume
+# About your resume
 
-**Resources:**  
-* The [GHC Resume Database](https://ghc.anitab.org/attend/resume-database) lets 400+ companies access your resume for job and internship opportunities and provides a free in-depth resume review service !
-* [Techintern.io](https://www.techintern.io/student) is an internship resume database that lets you select every month which companies you are interested in interning at.
+These are standard guidelines for data science/machine learning/tech resumes. If you are applying to a lot of companies through job boards or Career websites,
+these are probably your best bet. *However*, if you're taking the [networking](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#networking-101) approach, maybe you can skip a few of these guidelines.
 
-## About your portfolio
+## Best practices 
+**Formatting:**  
+- Calibri or Didot font
+- Size 11-12 for text, 13-14 for headings
+- Line-spacing of 1 to 1.15
+- Margins of 1 inch on all sides
+- .doc is more parseable by Applicant Tracking Softwares
+- 1-column resumes are also more parseable
+
+**Header section:**
+- Include your correct, most up-to-date contact information. Double-check it.
+- Include a link to your LinkedIn and portfolio/GitHub if you have them (you probably should).
+
+**Summary section:** 
+- Start with an adjective + job title + years of experience + area of experience (i.e "Resourceful data scientist with 3 years of experience in predictive modeling").
+- If you don't have years of experience, describe your goal instead (i.e "Seeking to improve machine learning models at FutureEmployer").
+- End with a few of your best achievements (i.e "At PastEmployer, improved forecast accuracy by 34%").
+- Try to use less adjectives overall and more numbers (persuading vs convincing a recruiter).
+
+**Experience section:** 
+- Put it before education if you have extensive work experience.
+- Your most recent experience appears first.
+- Use 3-5 bullet points for each job.
+- List your responsibilities for each job you had, but more importantly your *achievements* (i.e "improved forecast accuracy by 34%").
+- Use precise action verbs like "designed", "optimized", "predicted" instead of "responsible for" and "handled".
+- Say precisely what technique(s) you used (i.e "logistic regression model" instead of just "data modeling").
+- Numbers ! Numbers ! Numbers ! Try to add numbers to each bullet point. By how many % did you improve accuracy ? 
+How much money/time did you save ? How many procedures did you optimize ?
+
+**Education section:**  
+- Put it before your work experience if you're a new graduate.
+- List relevant awards, clubs, and activities you did in school.
+- Mention that you *excelled* in any courses you did great in.
+- Mention quality school projects and research papers if you have any.
+
+**Projects section:** (optional)
+- If you have any clean, well-documented projects, showcase them.  
+
+**Skills:**
+- Include all keywords in the job description that apply to you. This is important for ATS keyword scanning.
+- Do *NOT* forget soft skills : use the ones that are in the job description.
+
+## Going the extra mile
+- Upload your resume to a **resume scanner** (like [this](https://www.jobscan.co/) or [this](https://cultivatedculture.com/resume-scanner/)) to check that companies' Applicant Tracking Softwares (ATS) are able to correctly read your resume. 
+- Alternatively, LinkedIn has a free Resume Builder feature on your profile that lets you cross-check keywords on your resume with the keywords on the average job posting 
+for your chosen job title, as well as automatically create an ATS-friendly resume.  
+- If you want to, invest in a resume writing service. They are professionals who know how to write the best possible resume for ATS, but the prices can be a little on 
+the expensive side sometimes.
+- [JobSeer.ai](https://jobseer.ai/) is a powerful Chrome extension that shows you your match % with any given job posting, as well as recruiter and referral contact info, 
+keyword matching, etc.
+- The [GHC Resume Database](https://ghc.anitab.org/attend/resume-database) lets 400+ companies access your resume for job and internship opportunities and provides a **free in-depth resume review** service !
+- [Techintern.io](https://www.techintern.io/student) is an internship resume database that lets you select every month which companies you are interested in interning at.
+
+# About your portfolio
 
 **Resources:**  
 * [Streamlit](https://streamlit.io/) lets you turn data science and machine learning scripts into beautiful web apps with no front-end experience needed.
@@ -26,17 +80,17 @@ An excellent way of meeting peers, mentors and industry professionals is to part
 **Resources:**
 * [Technolgap](https://tinyurl.com/join-technolgap) is a very active pan-Canadian Slack community for women-in-tech (students and professionals) that shares daily job offers, opportunities, resume reviews, etc. **Exclusive Technolgap-only event coming up in August 2021 ! Join for more information !**
 
-## The behavioural interview
+# The behavioural interview
 
 **Resources:**  
 
-## The technical interview
+# The technical interview
 
 **Resources:**  
 * [confetti.ai](https://www.confetti.ai/) is an incredible Machine Learning technical interview question bank that lets you test on specific ML concepts. 
 * [HackerRank Interview Prep Kit](https://www.hackerrank.com/interview/interview-preparation-kit) is a list of HackerRank challenges curated by them from 1000+ companies.  
 
-## Learning opportunities
+# Learning opportunities
 Please check out the websites for the most recent information on location, application deadlines, dates, eligibility, exact costs, commitment level and end-of-program opportunities and rewards (stipends, certificates, etc). Most of these are free or almost free.  
 *:watch: ---> commit to attend most/all events  
 :books: ---> workshops/lectures only (no commitment)*
@@ -67,7 +121,7 @@ Please check out the websites for the most recent information on location, appli
   
 </details>
 
-## Hackathons
+# Hackathons
 All the hackathons listed below are either Canadian or open to Canadians, with some being restricted to certain provinces.  
 Most, if not all, of these are free.  
 Most of these welcome all skill levels, but please refer to the websites for the most recent information on eligiblity, schedule, and prizes.
@@ -100,3 +154,6 @@ Most of these welcome all skill levels, but please refer to the websites for the
 * [Hack the North](https://hackthenorth.com/) is Canada's biggest hackathon, where 3000+ students of all skill levels come together for 36 hours to build a project in teams of up to 4 people. **Runs Sept 17-19th 2021**
 
 </details>
+
+# Sources:
+[Machine learning resume](https://zety.com/blog/machine-learning-resume-example)
