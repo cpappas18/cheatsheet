@@ -44,15 +44,16 @@ Please check out the websites for the most recent information on location, appli
 <details>
   <summary> Running between January and April </summary>  
   
-* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Jan-Mar, :watch:**
+* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world AI projects. **Runs Jan-Mar, :watch:**
 
  </details>
 
 <details>
   <summary> Running between May and August </summary>  
   
+* [InternHacks](https://internhacks.com/) is a cross between an internship and a hackathon sponsored by major tech companies. **Runs May-Jul, :watch:**
 * [AI4Good Lab](https://www.ai4goodlab.com/) is a 7-week women-only introduction to machine learning and artificial intelligence program concluding in a 3-week team project that lets you make valuable connections and is an excellent springboard into the world of ML/AI. **Runs May-June, :watch:**
-* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Jun-Aug, :watch:**
+* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world AI projects. **Runs Jun-Aug, :watch:**
 * [URx Talent Development Program](https://onereq.com/urx/talent-development-program/) is a series of workshops designed to help you start your career in tech. **Runs Jun-Aug, :books:**
 * [IVADO's Problem Solving Workshop](http://crm.umontreal.ca/probindustrielsEn2021/) is a 4-day workshop to solve real-world problems for large corporations. **Runs Aug 23-27th 2021, :watch:**
   
@@ -62,25 +63,40 @@ Please check out the websites for the most recent information on location, appli
   <summary> Running between September and December </summary>  
   
 * [DS4A/Women](https://www.correlation-one.com/data-science-for-all-women) is a virtual 7-week Data Science program for women that teaches you real-world data analysis skills  concluding with a team project, and lets you network and be matched with a mentor. **Runs Sep-Oct, :watch:**
-* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Sep-Nov, :watch:**
+* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world AI projects. **Runs Sep-Nov, :watch:**
   
 </details>
 
 ## Hackathons
+All the hackathons listed below are either Canadian or open to Canadians, with some being restricted to certain provinces.  
+Most, if not all, of these are free.  
+Most of these welcome all skill levels, but please refer to the websites for the most recent information on eligiblity, schedule, and prizes.
 
 <details>
   <summary> Running between January and April </summary>  
+  
+* [SheHacks](https://shehacks.ca/) is Canada's largest 36-hour hackathon for women-identifying people of all skill levels. **Runs Jan 8-10th, 2021**
+* [MLH Local Hack Day: Build](https://localhackday.mlh.io/) is a celebration of hacking where you complete weekly and daily challenges to gain points 
+  and then build something at one of the partner hackathons. **Runs Jan 10-18th, 2021**
+* [ElleHacks](https://ellehacks.com/) is a student-led women-only 36-hour hackathon for all skill levels. **Runs Jan 15-17th, 2021**
+* [McHacks](https://mchacks.ca/) is McGill University's 36-hour global collegiate hackathon for all skill levels. **Runs Jan 29-31st, 2021**
+* [MLH Local Hack Day: Share](https://localhackday.mlh.io/) is a celebration of sharing everything you’ve learned as a hacker by completing weekly and 
+  daily challenges at all skill levels to gain points. **Runs Mar 28th-Apr 5th, 2021**
 
 </details>
  
 <details>
   <summary> Running between May and August </summary>  
 
-* [TechNova](https://www.itstechnova.org/) is UWaterloo's first global women-in-tech hackathon, featuring a 3-day workshop period followed by the 36-hour hackathon and concluding with a 5-day networking period. **Applications close July 12th, runs Aug 24-29th 2021**
+* [InternHacks](https://internhacks.com/) is a cross between an internship and a hackathon sponsored by major tech companies. **Runs May-Jul, 2021**
+* [natHACKS](https://natuab.ca/event/nathack) is Alberta’s 64-hour inaugural brain-computer interface hackathon. **Runs Jul 30th-Aug 2nd, 2021**
+* [TechNova](https://www.itstechnova.org/) is UWaterloo's first global women-in-tech hackathon, featuring a 3-day workshop period followed by the 36-hour hackathon and concluding with a 5-day networking period. **Runs Aug 24-29th, 2021**
 
 </details>
 
 <details>
   <summary> Running between September and December </summary>  
+
+* [Hack the North](https://hackthenorth.com/) is Canada's biggest hackathon, where 3000+ students of all skill levels come together for 36 hours to build a project in teams of up to 4 people. **Runs Sept 17-19th 2021**
 
 </details>
