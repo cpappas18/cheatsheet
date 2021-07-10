@@ -37,34 +37,32 @@ An excellent way of meeting peers, mentors and industry professionals is to part
 * [HackerRank Interview Prep Kit](https://www.hackerrank.com/interview/interview-preparation-kit) is a list of HackerRank challenges curated by them from 1000+ companies.  
 
 ## Learning opportunities
-Please check out the websites for the most recent information on location, application deadlines, dates, eligibility, exact costs, commitment level and end-of-program opportunities and rewards (stipends, certificates, etc).   
-*$0 ---> free  
-$ ----> less than 75$ or can be waived  
-$$ ---> more than 75$  
-:watch: ---> you have to commit to attend all events  
+Please check out the websites for the most recent information on location, application deadlines, dates, eligibility, exact costs, commitment level and end-of-program opportunities and rewards (stipends, certificates, etc). Most of these are free or almost free.  
+*:watch: ---> commit to attend most/all events  
 :books: ---> workshops/lectures only (no commitment)*
 
 <details>
   <summary> Running between January and April </summary>  
   
-* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Jan-Mar, $, :watch:**
+* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Jan-Mar, :watch:**
 
  </details>
 
 <details>
   <summary> Running between May and August </summary>  
   
-* [AI4Good Lab](https://www.ai4goodlab.com/) is a 7-week women-only introduction to machine learning and artificial intelligence program concluding in a 3-week team project that lets you make valuable connections and is an excellent springboard into the world of ML/AI. **Runs May-June, $, :watch:**
-* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Jun-Aug, $, :watch:**
-* [URx Talent Development Program](https://onereq.com/urx/talent-development-program/) is a series of workshops designed to help you start your career in tech. **Runs Jun-Aug, $0, :books:**
+* [AI4Good Lab](https://www.ai4goodlab.com/) is a 7-week women-only introduction to machine learning and artificial intelligence program concluding in a 3-week team project that lets you make valuable connections and is an excellent springboard into the world of ML/AI. **Runs May-June, :watch:**
+* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Jun-Aug, :watch:**
+* [URx Talent Development Program](https://onereq.com/urx/talent-development-program/) is a series of workshops designed to help you start your career in tech. **Runs Jun-Aug, :books:**
+* [IVADO's Problem Solving Workshop](http://crm.umontreal.ca/probindustrielsEn2021/) is a 4-day workshop to solve real-world problems for large corporations. **Runs Aug 23-27th 2021, :watch:**
   
 </details>
 
 <details>
   <summary> Running between September and December </summary>  
   
-* [DS4A/Women](https://www.correlation-one.com/data-science-for-all-women) is a virtual 7-week Data Science program for women that teaches you real-world data analysis skills  concluding with a team project, and lets you network and be matched with a mentor. **Runs Sep-Oct, $0, :watch:**
-* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Sep-Nov, $, :watch:**
+* [DS4A/Women](https://www.correlation-one.com/data-science-for-all-women) is a virtual 7-week Data Science program for women that teaches you real-world data analysis skills  concluding with a team project, and lets you network and be matched with a mentor. **Runs Sep-Oct, :watch:**
+* [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world (no like, actually) AI project under a mandator (a company, a PhD student, etc.) **Runs Sep-Nov, :watch:**
   
 </details>
 
