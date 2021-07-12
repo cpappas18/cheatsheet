@@ -13,7 +13,7 @@
 
 <details>
    <summary> Best practices for data science/machine learning/tech resumes </summary>
-## Best practices 
+
 **Formatting:**  
 - Calibri or Didot font
 - Size 11-12 for text, 13-14 for headings
