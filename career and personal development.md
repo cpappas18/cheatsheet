@@ -11,9 +11,8 @@
 
 # About your resume
 
-These are standard guidelines for data science/machine learning/tech resumes. If you are applying to a lot of companies through job boards or Career websites,
-these are probably your best bet. *However*, if you're taking the [networking](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#networking-101) approach, maybe you can skip a few of these guidelines.
-
+<details>
+   <summary> Best practices for data science/machine learning/tech resumes </summary>
 ## Best practices 
 **Formatting:**  
 - Calibri or Didot font
@@ -55,8 +54,10 @@ How much money/time did you save ? How many procedures did you optimize ?
 **Skills:**
 - Include all keywords in the job description that apply to you. This is important for ATS keyword scanning.
 - Do *NOT* forget soft skills : use the ones that are in the job description.
+   
+</details>
 
-## Going the extra mile
+**Resources:**
 - Upload your resume to a **resume scanner** (like [this](https://www.jobscan.co/) or [this](https://cultivatedculture.com/resume-scanner/)) to check that companies' Applicant Tracking Softwares (ATS) are able to correctly read your resume. 
 - Alternatively, LinkedIn has a free Resume Builder feature on your profile that lets you cross-check keywords on your resume with the keywords on the average job posting 
 for your chosen job title, as well as automatically create an ATS-friendly resume.  
@@ -78,6 +79,7 @@ keyword matching, etc.
 An excellent way of meeting peers, mentors and industry professionals is to partake in a [program](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#learning-opportunities). 
 
 **Resources:**
+* [Canadian Undergraduate Technology Conference](https://cutc.ca/) is a free virtual event open to everyone worldwide where speakers from top tech companies host workshops and panels on various topics related to tech. **Runs July 24-25, 2021**
 * [Technolgap](https://tinyurl.com/join-technolgap) is a very active pan-Canadian Slack community for women-in-tech (students and professionals) that shares daily job offers, opportunities, resume reviews, etc. **Exclusive Technolgap-only event coming up in August 2021 ! Join for more information !**
 
 # The behavioural interview
@@ -109,7 +111,7 @@ Please check out the websites for the most recent information on location, appli
 * [AI4Good Lab](https://www.ai4goodlab.com/) is a 7-week women-only introduction to machine learning and artificial intelligence program concluding in a 3-week team project that lets you make valuable connections and is an excellent springboard into the world of ML/AI. **Runs May-June, :watch:**
 * [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world AI projects. **Runs Jun-Aug, :watch:**
 * [URx Talent Development Program](https://onereq.com/urx/talent-development-program/) is a series of workshops designed to help you start your career in tech. **Runs Jun-Aug, :books:**
-* [IVADO's Problem Solving Workshop](http://crm.umontreal.ca/probindustrielsEn2021/) is a 4-day workshop to solve real-world problems for large corporations. **Runs Aug 23-27th 2021, :watch:**
+* [IVADO's Problem Solving Workshop](http://crm.umontreal.ca/probindustrielsEn2021/) is a 4-day workshop to solve real-world problems for large corporations such as Air Canada and National Bank of Canada. **Runs Aug 23-27th 2021, :watch:**
   
 </details>
 
