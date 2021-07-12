@@ -1,13 +1,11 @@
 # Table of contents
 1. [About your resume](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-resume)  
-   a. [Best practices](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#best-practices)  
-   b. [Going the extra mile](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#going-the-extra-mile)  
-3. [About your portfolio](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-portfolio)
-4. [Networking 101](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#networking-101)
-5. [The behavioural interview?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-behavioural-interview)
-6. [The technical interview](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-technical-interview)
-7. [Learning opportunities](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities)
-8. [Hackathons](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#hackathons)
+2. [About your portfolio](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-portfolio)
+3. [Networking 101](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#networking-101)
+4. [The behavioural interview?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-behavioural-interview)
+5. [The technical interview](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-technical-interview)
+6. [Learning opportunities](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities)
+7. [Hackathons](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#hackathons)
 
 # About your resume
 
@@ -76,7 +74,7 @@ keyword matching, etc.
 
 ## Networking 101
 
-An excellent way of meeting peers, mentors and industry professionals is to partake in a [program](https://github.com/nadiaenh/cheatsheet/blob/main/Getting%20a%20job.md#learning-opportunities). 
+An excellent way of meeting peers, mentors and industry professionals is to partake in a [program](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities). 
 
 **Resources:**
 * [Canadian Undergraduate Technology Conference](https://cutc.ca/) is a free virtual event open to everyone worldwide where speakers from top tech companies host workshops and panels on various topics related to tech. **Runs July 24-25, 2021**
