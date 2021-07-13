@@ -99,6 +99,7 @@ Please check out the websites for the most recent information on location, appli
   <summary> Running between January and April </summary>  
   
 * [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world AI projects. **Runs Jan-Mar, :watch:**
+* [IVADO/Mila Deep Learning School](https://ivado.ca/evenements/6th-ivado-mila-deep-learning-school/) is a 5-week intermediate level artificial intelligence program aimed at people who have a basic background in Python and mathematics. **Runs Mar 25-Apr 29th 2021, $, :watch:**
 
  </details>
 
