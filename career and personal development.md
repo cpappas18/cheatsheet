@@ -1,8 +1,8 @@
 # Table of contents
 1. [About your resume](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-resume)  
 2. [About your portfolio](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#about-your-portfolio)
-3. [Networking 101](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#networking-101)
-4. [The behavioural interview?](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-behavioural-interview)
+3. [Networking and leadership](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#networking-and-leadership)
+4. [The behavioural interview](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-behavioural-interview)
 5. [The technical interview](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#the-technical-interview)
 6. [Learning opportunities](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities)
 7. [Hackathons](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#hackathons)
@@ -72,13 +72,18 @@ keyword matching, etc.
 * [Streamlit](https://streamlit.io/) lets you turn data science and machine learning scripts into beautiful web apps with no front-end experience needed.
 * [Typeform](https://www.typeform.com/) lets you create beautiful interactive forms.
 
-## Networking 101
+# Networking and leadership
 
-An excellent way of meeting peers, mentors and industry professionals is to partake in a [program](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities). 
+An excellent way of meeting peers, mentors and industry professionals is to partake in a [program or apprenticeship](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities). Alternatively, below are some excellent networking
+platforms and leadership opportunities.
 
 **Resources:**
 * [Canadian Undergraduate Technology Conference](https://cutc.ca/) is a free virtual event open to everyone worldwide where speakers from top tech companies host workshops and panels on various topics related to tech. **Runs July 24-25, 2021**
 * [Technolgap](https://tinyurl.com/join-technolgap) is a very active pan-Canadian Slack community for women-in-tech (students and professionals) that shares daily job offers, opportunities, resume reviews, etc. **Exclusive Technolgap-only event coming up in August 2021 ! Join for more information !**
+* [Flik](https://weareflik.com/) is a networking platform that matches apprentices to female founders for short-term apprenticeships. 
+* [The Grad Cafe](https://forum.thegradcafe.com/) is a place to exchange about all things grad-school related and see some admission statistics.
+* [Google Student Developers Club](https://developers.google.com/community/dsc) is an amazing way to show leadership and make an impact in your community. Check if your school already has one you can join, and if they don't then you can lead your own GSDC ! **Applications close May 31st for Canada**
+* [Microsoft Learn Student Ambassadors](https://studentambassadors.microsoft.com/en-us) is another great leadership opportunity.
 
 # The behavioural interview
 
@@ -100,6 +105,7 @@ Please check out the websites for the most recent information on location, appli
   
 * [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world AI projects. **Runs Jan-Mar, :watch:**
 * [IVADO/Mila Deep Learning School](https://ivado.ca/evenements/6th-ivado-mila-deep-learning-school/) is a 5-week intermediate level artificial intelligence program aimed at people who have a basic background in Python and mathematics. **Runs Mar 25-Apr 29th 2021, $, :watch:**
+* [MLH Fellowship](https://fellowship.mlh.io/#programs) is a 12-week learning program with 3 tracks to choose from. **Runs multiple batches a year, :watch:**
 
  </details>
 
@@ -111,6 +117,7 @@ Please check out the websites for the most recent information on location, appli
 * [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world AI projects. **Runs Jun-Aug, :watch:**
 * [URx Talent Development Program](https://onereq.com/urx/talent-development-program/) is a series of workshops designed to help you start your career in tech. **Runs Jun-Aug, :books:**
 * [IVADO's Problem Solving Workshop](http://crm.umontreal.ca/probindustrielsEn2021/) is a 4-day workshop to solve real-world problems for large corporations such as Air Canada and National Bank of Canada. **Runs Aug 23-27th 2021, :watch:**
+* [MLH Fellowship](https://fellowship.mlh.io/#programs) is a 12-week learning program with 3 tracks to choose from. **Runs multiple batches a year, :watch:**
   
 </details>
 
@@ -118,7 +125,9 @@ Please check out the websites for the most recent information on location, appli
   <summary> Running between September and December </summary>  
   
 * [DS4A/Women](https://www.correlation-one.com/data-science-for-all-women) is a virtual 7-week Data Science program for women that teaches you real-world data analysis skills  concluding with a team project, and lets you network and be matched with a mentor. **Runs Sep-Oct, :watch:**
+* [Facebook ABCS](https://diversity.fb.com/initiatives/in-our-communities/) is a workshop series where students review computer science concepts, learn crucial interviewing skills, and build their confidence by participating in mock coding interviews. **Runs Sept-Oct, :watch:**
 * [AI Launch Lab R&D Program](https://launchlab.ai/rd-program/) is a research and development program that has you working on a real-world AI projects. **Runs Sep-Nov, :watch:**
+* [MLH Fellowship](https://fellowship.mlh.io/#programs) is a 12-week learning program with 3 tracks to choose from. **Runs multiple batches a year, :watch:**
   
 </details>
 
@@ -144,6 +153,7 @@ Most of these welcome all skill levels, but please refer to the websites for the
   <summary> Running between May and August </summary>  
 
 * [InternHacks](https://internhacks.com/) is a cross between an internship and a hackathon sponsored by major tech companies. **Runs May-Jul, 2021**
+* [Hack Girl Summer](https://organize.mlh.io/participants/events/7019-hack-girl-summer-2-0) is a gender-focused MLH hackathon. **Runs Jun 4-6th, 2021**
 * [natHACKS](https://natuab.ca/event/nathack) is Alberta’s 64-hour inaugural brain-computer interface hackathon. **Runs Jul 30th-Aug 2nd, 2021**
 * [TechNova](https://www.itstechnova.org/) is UWaterloo's first global women-in-tech hackathon, featuring a 3-day workshop period followed by the 36-hour hackathon and concluding with a 5-day networking period. **Runs Aug 24-29th, 2021**
 
