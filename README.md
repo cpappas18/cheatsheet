@@ -17,4 +17,4 @@ You can also just drop links to articles or videos and I'll take care of the for
 - [ ] ... and maybe more 
 
 ## What I'm doing right now
-As of **July 9th, 2021**, I am mainly working on [career and personal development.md](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md) (resume, portfolio, networking, interviewing, hackathon list).
+Starting **August 1st, 2021**, I will keep adding to [career and personal development.md](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md) and try to work on computer vision documents.
