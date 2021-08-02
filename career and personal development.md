@@ -9,52 +9,6 @@
 
 # About your resume
 
-<details>
-   <summary> Best practices for data science/machine learning/tech resumes </summary>
-
-**Formatting:**  
-- Calibri or Didot font
-- Size 11-12 for text, 13-14 for headings
-- Line-spacing of 1 to 1.15
-- Margins of 1 inch on all sides
-- .doc is more parseable by Applicant Tracking Softwares
-- 1-column resumes are also more parseable
-
-**Header section:**
-- Include your correct, most up-to-date contact information. Double-check it.
-- Include a link to your LinkedIn and portfolio/GitHub if you have them (you probably should).
-
-**Summary section:** 
-- Start with an adjective + job title + years of experience + area of experience (i.e "Resourceful data scientist with 3 years of experience in predictive modeling").
-- If you don't have years of experience, describe your goal instead (i.e "Seeking to improve machine learning models at FutureEmployer").
-- End with a few of your best achievements (i.e "At PastEmployer, improved forecast accuracy by 34%").
-- Try to use less adjectives overall and more numbers (persuading vs convincing a recruiter).
-
-**Experience section:** 
-- Put it before education if you have extensive work experience.
-- Your most recent experience appears first.
-- Use 3-5 bullet points for each job.
-- List your responsibilities for each job you had, but more importantly your *achievements* (i.e "improved forecast accuracy by 34%").
-- Use precise action verbs like "designed", "optimized", "predicted" instead of "responsible for" and "handled".
-- Say precisely what technique(s) you used (i.e "logistic regression model" instead of just "data modeling").
-- Numbers ! Numbers ! Numbers ! Try to add numbers to each bullet point. By how many % did you improve accuracy ? 
-How much money/time did you save ? How many procedures did you optimize ?
-
-**Education section:**  
-- Put it before your work experience if you're a new graduate.
-- List relevant awards, clubs, and activities you did in school.
-- Mention that you *excelled* in any courses you did great in.
-- Mention quality school projects and research papers if you have any.
-
-**Projects section:** (optional)
-- If you have any clean, well-documented projects, showcase them.  
-
-**Skills:**
-- Include all keywords in the job description that apply to you. This is important for ATS keyword scanning.
-- Do *NOT* forget soft skills : use the ones that are in the job description.
-   
-</details>
-
 **Resources:**
 - Upload your resume to a **resume scanner** (like [this](https://www.jobscan.co/) or [this](https://cultivatedculture.com/resume-scanner/)) to check that companies' Applicant Tracking Softwares (ATS) are able to correctly read your resume. 
 - Alternatively, LinkedIn has a free Resume Builder feature on your profile that lets you cross-check keywords on your resume with the keywords on the average job posting 
@@ -74,7 +28,7 @@ keyword matching, etc.
 
 # Networking and leadership
 
-An excellent way of meeting peers, mentors and industry professionals is to partake in a [program or apprenticeship](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities). Alternatively, below are some excellent networking
+An excellent way of meeting peers, mentors and industry professionals is to partake in a [program or apprenticeship](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#learning-opportunities) or participate in [hackathons](https://github.com/nadiaenh/cheatsheet/blob/main/career%20and%20personal%20development.md#hackathons). Alternatively, below are some excellent networking
 platforms and leadership opportunities.
 
 **Resources:**
@@ -132,18 +86,20 @@ Please check out the websites for the most recent information on location, appli
 </details>
 
 # Hackathons
-All the hackathons listed below are either Canadian or open to Canadians, with some being restricted to certain provinces.  
-Most, if not all, of these are free.  
-Most of these welcome all skill levels, but please refer to the websites for the most recent information on eligiblity, schedule, and prizes.
+All the hackathons listed below are either based in Canada or open to Canadians, with some being restricted to certain provinces.  
+Almost all are free and welcome all skill levels. Refer to the websites for the most recent information on eligiblity, schedule, application deadlines, and prizes.
 
 <details>
   <summary> Running between January and April </summary>  
   
 * [SheHacks](https://shehacks.ca/) is Canada's largest 36-hour hackathon for women-identifying people of all skill levels. **Runs Jan 8-10th, 2021**
+* [nwHacks](https://www.nwhacks.io/) is Western Canada's largest hackathon. **Runs Jan 9-10th, 2021**
 * [MLH Local Hack Day: Build](https://localhackday.mlh.io/) is a celebration of hacking where you complete weekly and daily challenges to gain points 
   and then build something at one of the partner hackathons. **Runs Jan 10-18th, 2021**
 * [ElleHacks](https://ellehacks.com/) is a student-led women-only 36-hour hackathon for all skill levels. **Runs Jan 15-17th, 2021**
 * [McHacks](https://mchacks.ca/) is McGill University's 36-hour global collegiate hackathon for all skill levels. **Runs Jan 29-31st, 2021**
+* [Hackatown](https://hackatown.io/) is Polytechnique Montreal's 24-hour hackathon where participants come to create their city in a smarter way. **Runs Feb 5th, 2021**
+* [cmd-f Hackathon](https://cmd-f.nwplus.io/) is British Columbia’s first and largest all-women* hackathon. **Runs March 6-7th, 2021**
 * [MLH Local Hack Day: Share](https://localhackday.mlh.io/) is a celebration of sharing everything you’ve learned as a hacker by completing weekly and 
   daily challenges at all skill levels to gain points. **Runs Mar 28th-Apr 5th, 2021**
 
@@ -153,8 +109,10 @@ Most of these welcome all skill levels, but please refer to the websites for the
   <summary> Running between May and August </summary>  
 
 * [InternHacks](https://internhacks.com/) is a cross between an internship and a hackathon sponsored by major tech companies. **Runs May-Jul, 2021**
-* [Hack Girl Summer](https://organize.mlh.io/participants/events/7019-hack-girl-summer-2-0) is a gender-focused MLH hackathon. **Runs Jun 4-6th, 2021**
+* [Hack Girl Summer](https://organize.mlh.io/participants/events/7019-hack-girl-summer-2-0) is a gender-focused MLH hackathon. **Runs Jun 4-6th, 2021**
 * [natHACKS](https://natuab.ca/event/nathack) is Alberta’s 64-hour inaugural brain-computer interface hackathon. **Runs Jul 30th-Aug 2nd, 2021**
+* [TOHacks](https://www.tohacks.ca/#home) is a 4-week accelerator to help you build your next big idea. **Runs Aug 7-29th, 2021**
+* [HackThe6ix](https://hackthe6ix.com/) is Toronto's largest hackathon. **Runs August 20-22nd, 2021**
 * [TechNova](https://www.itstechnova.org/) is UWaterloo's first global women-in-tech hackathon, featuring a 3-day workshop period followed by the 36-hour hackathon and concluding with a 5-day networking period. **Runs Aug 24-29th, 2021**
 
 </details>
@@ -162,9 +120,13 @@ Most of these welcome all skill levels, but please refer to the websites for the
 <details>
   <summary> Running between September and December </summary>  
 
+* [ProjectX](https://www.projectx2020.com/) is a ML research competition focused on health where top schools across Canada and the US participate. **Runs Sep 2021 - Feb 2022**
 * [Hack the North](https://hackthenorth.com/) is Canada's biggest hackathon, where 3000+ students of all skill levels come together for 36 hours to build a project in teams of up to 4 people. **Runs Sept 17-19th 2021**
+* [Hack the Valley](https://hackthevalley.io/) is University of Toronto's in-person hackathon. **Runs Oct 15-17th, 2021** 
+* [TAMU Datathon](https://tamudatathon.com/) is Texas A&M University's data-focused hackathon. **Runs Oct 16-17th, 2021**
+* [Technica](https://gotechnica.org/) is the world's largest hybrid hackathon for underrepresented genders. **Runs Nov, 2021**
+* [HackWestern](https://www.hackwestern.com/) is Western University's hackathon. **Runs Nov 19-21st, 2021**
 
 </details>
 
 # Sources:
-[Machine learning resume](https://zety.com/blog/machine-learning-resume-example)
